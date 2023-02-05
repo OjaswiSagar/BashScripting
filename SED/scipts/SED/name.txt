@@ -1,0 +1,5 @@
+Hello! My name is Sagar
+and you are performing Shell Scripting tutorial
+on Hightech
+This is a text file
+This is a new line
